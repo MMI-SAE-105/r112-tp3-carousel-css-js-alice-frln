@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : Frelin
+- prénom : Alice
 - URL Netlify :
 
 # Travail
@@ -27,7 +27,7 @@ Les `____` sont à remplacer par les termes corrects.
 Trouvez l'élément de classe CSS `carousel__container` :
 
 ```js
-carousel = document.querySelector("______");
+carousel = document.querySelector(".carousel__container");
 ```
 
 Doit afficher dans la console :
